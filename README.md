@@ -4,9 +4,14 @@ An example ecommerce with NodeJS + Kafka
 **API services
 
 -microservice-order-api
+
 -microservice-customer-api
+
 -microservice-payment-api
+
 -microservice-product-api
+
+-microservice-email
 
 **microservice-product-api
 
